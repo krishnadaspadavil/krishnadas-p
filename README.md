@@ -54,9 +54,6 @@ I create 2D and 3D games, experiment with new mechanics, and constantly improve 
 
 ---
 
-If you want, I can also:
-✔ Add badges for languages/tools you want
-✔ Add GIF screenshots of your games
-✔ Create a portfolio-style GitHub page
+
 
 Want a version with **dark theme**, **emoji-rich**, or **minimal clean style**?
