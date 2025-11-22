@@ -54,6 +54,3 @@ I create 2D and 3D games, experiment with new mechanics, and constantly improve 
 
 ---
 
-
-
-Want a version with **dark theme**, **emoji-rich**, or **minimal clean style**?
