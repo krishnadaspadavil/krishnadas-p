@@ -9,7 +9,7 @@ I'm **Krishnadas**, a Unity 6 & C# Game Developer with 4 years of experience as 
 I create 2D and 3D games, experiment with new mechanics, and constantly improve my development skills.
 
 
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/krishnadas-padavil-734a32303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ---
 
