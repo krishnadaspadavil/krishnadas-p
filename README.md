@@ -49,6 +49,8 @@ I create 2D and 3D games, experiment with new mechanics, and constantly improve 
 | **Project**                                 | **Description**                                                           |
 | ------------------------------------------- | ------------------------------------------------------------------------- |
 | **[Tanker Shooting](https://github.com/krishnadas-p/Tanker-Shooting/tree/main)**   | A top-down tank shooter with AI, physics bullets, health system & scoring |
+| **[Bricks Breake](https://github.com/krishnadaspadavil/Bricks-Breaker)**   | 2D Brick Breaker gameplay demo , Unity 6 (C#) portfolio showcase with physics, UI panels, VFX & SFX.
+|
                                |
 
 ---
